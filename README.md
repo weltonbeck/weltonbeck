@@ -1,6 +1,8 @@
 ### 👋 Hi there 
 
-Eu sou welton beck, Programador Web Senior com mais de 10 anos de experiencia.
+I'm Welton Beck Guadagnin, a full stack developer with nearly 15 years of experience. I specialize in web development using JavaScript (JS), focusing on Node.js, React, React Native, and Next.js. I also have knowledge in PHP and game development using Godot and Unity. I'm always seeking challenges and opportunities to create innovative applications. 
+
+Let's build amazing things together!
 
 ### 💻 Tech Stack
 
